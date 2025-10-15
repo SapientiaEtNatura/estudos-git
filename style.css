@@ -1,0 +1,13 @@
+.divClass{
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px;
+    font-size: medium;
+    border-color: black;
+    background-color: blue;
+    color: white;
+}
+
